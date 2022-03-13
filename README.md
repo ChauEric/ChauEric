@@ -13,7 +13,7 @@
  🌱 I am currently learning Full Stack Web Development from <q>The Complete 2022 Web Development Bootcamp</q> Created by Dr. Angela Yu, available on Udemy.
  <br>
  <br>
- 💞️ I am looking to collaborate on various projects to build an understanding and experience with UX/UI development to improve accessibility at the client level.
+ 💞️ I am looking to learn the inner workings of various projects to build an understanding and experience with UX/UI development with a goal of improving accessibility at the client level.
  <br>
  <br>
  📫 You can reach me at https://www.linkedin.com/in/chaumeric/
