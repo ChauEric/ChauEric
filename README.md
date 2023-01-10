@@ -10,7 +10,7 @@
   <li><strong><Samp>Additional interesting hobbies - Not Found</Samp></strong></Li>
 </ul>
  <br>
- 🌱 I am currently learning Full Stack Web Development from <q>The Complete 2022 Web Development Bootcamp</q> Created by Dr. Angela Yu, available on Udemy.
+ 🌱 I am currently studying the Computer Systems Technology diploma at <a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/".>BCIT</a>
  <br>
  <br>
  💞️ I am looking to learn the inner workings of various projects to build an understanding and experience with UX/UI development with a goal of improving accessibility at the client level.
