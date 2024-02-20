@@ -4,14 +4,14 @@
  I am interested in various activies ranging from:
  <ul> 
   <li>Casual biking </li>
-  <li>Reading multiple books at once</li> 
-  <li>Working on my LinkedIn profile.</li>
+  <li>Listening to audio books</li> 
+  <li>3D Printing Cool Tools, knick-knacks, and essentials</li>
 </ul>
  <br>
- 🌱 I am currently studying the Computer Systems Technology diploma at <a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/".>BCIT</a>
+ 🌱 I am currently studying the Computer Information Technology diploma at <a href="https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma".>BCIT</a>
  <br>
  <br>
- 💞️ I am looking to learn the inner workings of various projects to build an understanding and experience with UX/UI development with a goal of improving accessibility at the internal users level.
+ 💞️ I am looking to learn the inner workings of various projects to build my understanding and experience in UX/UI development with a goal of improving accessibility at the internal users level.
  <br>
  <br>
  📫 You can reach me at https://www.linkedin.com/in/chaumeric/
